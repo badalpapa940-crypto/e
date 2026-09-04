@@ -26,9 +26,9 @@ function App() {
       <main>
         <Hero />
         <Services />
-        <Process />
         <Work />
         <Stats />
+        <Process />
         <CTA />
       </main>
       <Footer />
